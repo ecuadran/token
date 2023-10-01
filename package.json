@@ -1,0 +1,11 @@
+{
+  "name": "token",
+  "version": "1.0.0",
+  "description": "servicio generador de token",
+  "main": "app.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}

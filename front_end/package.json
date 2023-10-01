@@ -1,0 +1,11 @@
+{
+  "name": "front_end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
